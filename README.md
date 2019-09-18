@@ -1,4 +1,4 @@
-# AMT 2019 
+# AST 2019 
 
 # Evaluation du cours
 
