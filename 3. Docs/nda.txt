@@ -1,0 +1,19 @@
+In order to obtain some sensitive information needed to perform the vulnerability assessment of the organisation's infrastructure/software/application/etc., a non disclosure agreement (NDA) must be signed between each of the parties involved.
+
+The purpose of this memo is to establish the terms of the non disclosure agreement between Student_Name, Abraham Rubinstein, Loïc Haas and Enterprise_Name.
+
+To that end, the undersigned attest that the following points won't in any case be disclosed to any third unauthorised parties:
+
+1. Any information given, obtained or discussed by any means during meetings with anyone from the organisation.
+
+2. Any kind of information gathered during the vulnerability assessment of the organisation's infrastructure/software/application/etc. (passwords, network topology, ip ranges, etc...).
+
+3. Every and any document produced during this project (Scoping, NDA, Permission to Test, presentations, final report, ...)
+
+This agreement becomes effective as soon as all undersigned have acknowledged and accepted all the points mentioned above by means of their signatures. 
+
+Due to the sensitive nature of this information, it will be kept confidential even after the project's completion.
+
+
+Signatures
+date
