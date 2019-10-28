@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>10.10.40.122</title>
+</head><body><i>Starting Nmap 7.80 ( https://nmap.org ) at 2019-10-27 14:41 CET<br/>
+Nmap scan report for 10.10.40.122<br/>
+Host is up (0.0080s latency).<br/>
+Not shown: 999 closed ports<br/>
+PORT &nbsp; &nbsp; STATE SERVICE<br/>
+8080/tcp open &nbsp;http-proxy<br/>
+<br/>
+Nmap done: 1 IP address (1 host up) scanned in 8.71 seconds<br/>
+<br/>
+</i>En nous connectant sur l'adresse : <i>10.10.40.122:8080</i>, nous arrivons sur la page suivante : <br/>
+<br/>
+<img src="screenshot from 2019-10-27 15-46-34.png" /><br/>
+<br/>
+<br/>
+En fouillant un peu sur internet, nous trouvons qu'une faille peut être trouvée en nous connectant sur : <i>10.10.40.122:8080/manager/html</i>&nbsp;avec les credentials : <i>tomcat/tomcat</i>.<br/>
+Nous voyons aussi qu'il s'agit de Tomcat version 6.0.18.<br/>
+<br/>
+C'est ce que nous avons fait : <br/>
+<br/>
+<img src="screenshot from 2019-10-27 15-49-05.png" /><br/>
+<br/>
+<br/>
+Maintenant que nous avons un set de credentials valides, nous pouvons utliser l'exploit : <i>Tomcat Manager Deploy</i><br/>
+<br/>
+<img src="screenshot from 2019-10-27 16-01-38.png" /><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</body></html>

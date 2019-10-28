@@ -1,14 +1,14 @@
 ﻿Non Disclosure Agreement
 
-In the scope of the AST (Security audit) course at the HEIG-VD, the aforementionned names are mandated to perform a penetration test, as part a school project, on the Lausanne site of SIB.
+In the scope of the AST (Security audit) course at the HEIG-VD, the aforementionned names are mandated to perform a penetration test on the Lausanne site of SIB.
 
 In order to obtain some sensitive information needed to perform the vulnerability assessment of the organisation's infrastructure/software/application/etc., a non disclosure agreement (NDA) must be signed between each of the parties involved.
 
-The purpose of this memo is to establish the terms of the non disclosure agreement between Jeremy Zerbib, Baptiste Hardrick, Abraham Rubinstein, Jean Marc Bose, Yann Lederey, Lucie Steiner, Warren Paulus, Heinz Stockinger and SIB.
+The purpose of this memo is to establish the terms of the non disclosure agreement between Jeremy Zerbib, Baptiste Hardrick, Abraham Rubinstein, Jeam Marc Bost, Loïc Haas, Heinz Stockinger and Warren Paulus.
 
 To that end, the undersigned attest that the following points won't in any case be disclosed to any third unauthorised parties:
 
-1. Any information, presented or marked as confidential, given, obtained or discussed by any means during meetings with anyone from the organisation.
+1. Any information given, obtained or discussed by any means during meetings with anyone from the organisation.
 
 2. Any kind of information gathered during the vulnerability assessment of the organisation's infrastructure/software/application/etc. (passwords, network topology, ip ranges, etc...).
 
@@ -19,8 +19,7 @@ This agreement becomes effective as soon as all undersigned have acknowledged an
 Due to the sensitive nature of this information, it will be kept confidential even after the project's completion.
 
 
-Date : 
-
+Date : 18.10.2019
 
 Signatures : 
 
@@ -35,3 +34,5 @@ Disclosing party :
 Baptiste Hardrick : 
 
 Jeremy Zerbib : 
+
+
